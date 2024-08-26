@@ -1,0 +1,2 @@
+option('with_mkl', type: 'boolean', value: false)
+option('enable_cpu_dispatch', type: 'boolean', value: true)
